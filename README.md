@@ -87,8 +87,9 @@ f = open(“your_source_file”) //line 36
 The purpose was to explore how useful information can be extracted from a social network, regarding the properties of users as well as the relationships between them over a specific period of time. **This application is developed solely for academic and research purposes**.
 
 
-## 🔒 Code Ownership & Usage Terms
+# 🔒 Code Ownership & Usage Terms
 This project was created and maintained by:
+
  - Theofanis Tzoumakas (@theofanistzoumakas)
  - Konstantinos Pavlis (@kpavlis)
  - Michael-Panagiotis Kapetanios (@KapetaniosMP)
