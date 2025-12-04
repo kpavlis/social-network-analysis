@@ -1,5 +1,5 @@
 # 🌐Data Analysis on a Social Network
-This project’s goal is to analyze a time-varying network.
+**This project’s goal is to analyze a time-varying network.**
 > ℹ️ This project is not open source and does not grant any usage rights.
 > For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
 
@@ -93,8 +93,8 @@ This project was created and maintained by:
  - Konstantinos Pavlis (@kpavlis)
  - Michael-Panagiotis Kapetanios (@KapetaniosMP)
 
-🚫 Unauthorized use is strictly prohibited.
-No part of this codebase may be copied, reproduced, modified, distributed, or used in any form without explicit written permission from the owners.
+**🚫 Unauthorized use is strictly prohibited.**
+No part of this codebase may be copied, reproduced, modified, distributed, or used in any form without **explicit written permission** from the owners.
 
 Any attempt to use, republish, or incorporate this code into other projects—whether commercial or non-commercial—without prior consent may result in legal action.
 
