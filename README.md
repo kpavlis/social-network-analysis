@@ -1,7 +1,7 @@
 # 🌐Data Analysis on a Social Network
 This project’s goal is to analyze a time-varying network.
 > ℹ️ This project is not open source and does not grant any usage rights.
-> For usage terms and legal information, see 🔒 [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
+> For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
 
 ## 🚀This project includes:
  - 🕰️Calculation of minimum and maximum time of time interval.
